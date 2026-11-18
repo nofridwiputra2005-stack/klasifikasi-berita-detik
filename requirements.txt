@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+joblib
+Sastrawi
+scikit-learn==1.6.1
